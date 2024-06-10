@@ -1,0 +1,12 @@
+C:\Users\gokhn\source\repos\Stock\Stock.Module\bin\Debug\net8.0\Stock.Module.deps.json
+C:\Users\gokhn\source\repos\Stock\Stock.Module\bin\Debug\net8.0\Stock.Module.dll
+C:\Users\gokhn\source\repos\Stock\Stock.Module\bin\Debug\net8.0\Stock.Module.pdb
+C:\Users\gokhn\source\repos\Stock\Stock.Module\obj\Debug\net8.0\Stock.Module.csproj.AssemblyReference.cache
+C:\Users\gokhn\source\repos\Stock\Stock.Module\obj\Debug\net8.0\Stock.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokhn\source\repos\Stock\Stock.Module\obj\Debug\net8.0\Stock.Module.AssemblyInfoInputs.cache
+C:\Users\gokhn\source\repos\Stock\Stock.Module\obj\Debug\net8.0\Stock.Module.AssemblyInfo.cs
+C:\Users\gokhn\source\repos\Stock\Stock.Module\obj\Debug\net8.0\Stock.Module.csproj.CoreCompileInputs.cache
+C:\Users\gokhn\source\repos\Stock\Stock.Module\obj\Debug\net8.0\Stock.Module.dll
+C:\Users\gokhn\source\repos\Stock\Stock.Module\obj\Debug\net8.0\refint\Stock.Module.dll
+C:\Users\gokhn\source\repos\Stock\Stock.Module\obj\Debug\net8.0\Stock.Module.pdb
+C:\Users\gokhn\source\repos\Stock\Stock.Module\obj\Debug\net8.0\ref\Stock.Module.dll
